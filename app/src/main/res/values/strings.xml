@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevicePairingDemo</string>
+    <string name="title_home">Home</string>
+    <string name="wifi">Wifi</string>
+    <string name="ble">Bluetooth</string>
+    <string name="error">Feature not supported on this OS version, use standard permissions.</string>
+</resources>
